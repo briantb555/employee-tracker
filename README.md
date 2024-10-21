@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 10 SQL: Employee Tracker
 
 ## Your Task
@@ -182,3 +183,7 @@ You are required to submit BOTH of the following for review:
 
 ---
 © 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+=======
+# employee-tracker
+A program designed to display and allow modification of an employee database
+>>>>>>> 81ececdc6cfda477af0647fb1b5d5ddb0ceb9c0f
