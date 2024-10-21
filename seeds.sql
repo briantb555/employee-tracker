@@ -26,3 +26,6 @@ INSERT INTO employee (first_name, last_name, role_id, manager_id) VALUES
   ('Elon', 'Ivanov', 8, 2),
   ('Janet', 'Jackson', 9, 3);
 
+-- End of seeds.sql
+
+
